@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "38646689484",
+    "project_id": "fir-pushnotification-a9520",
+    "storage_bucket": "fir-pushnotification-a9520.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38646689484:android:6c964a8f17c5602d93dc69",
+        "android_client_info": {
+          "package_name": "com.masterimran.firebasepushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38646689484-6etkh8inlsbh23eups3c9vubo97s5th1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSxGdDUZBXXEhIpjBck3oYaY5TWhrgby8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38646689484-6etkh8inlsbh23eups3c9vubo97s5th1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
